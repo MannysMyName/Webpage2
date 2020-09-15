@@ -1,0 +1,15 @@
+body {
+  background-color: #664400;
+}
+
+h1 {
+  color: #ffd480;
+  margin-left: 20px;
+}
+
+#spaghetti {
+  padding: 20px;
+  border: 3px solid #ffd480;
+  background: #ffffff;
+  width: 160px;
+}
